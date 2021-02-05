@@ -1,4 +1,9 @@
 ﻿  Compiler.cpp
+C:\Users\Home-PC\source\repos\CELL1\Compiler.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Home-PC\source\repos\CELL1\Compiler.cpp(81,42): warning C4018: <: несоответствие типов со знаком и без знака
+  Lexer.cpp
+C:\Users\Home-PC\source\repos\CELL1\Lexer.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Home-PC\source\repos\CELL1\Lexer.cpp(46,20): warning C4018: <: несоответствие типов со знаком и без знака
   Main.cpp
   Создание кода...
   CELL1.vcxproj -> C:\Users\Home-PC\source\repos\CELL1\Debug\CELL1.exe
